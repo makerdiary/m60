@@ -10,7 +10,7 @@ To check the information of the firmware, just open the `boot_out.txt` file in t
 Adafruit CircuitPython 6.0.0-alpha.1-110-g121d78ec9 on 2020-08-27; Makerdiary M60 Keyboard with nRF52840
 ```
 
-If you find a newer firmware (file with `.uf2` extension) in [python-keyboard / firmware](https://github.com/makerdiary/python-keyboard/tree/zh-cn/firmware), you could do an upgrade.
+If you find a newer firmware (file with `.uf2` extension) in [python-keyboard / firmware](https://github.com/makerdiary/python-keyboard/tree/main/firmware), you could do an upgrade.
 
 
 ## Enter Bootloader

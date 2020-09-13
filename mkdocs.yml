@@ -22,7 +22,7 @@
 site_name: M60 Keyboard
 site_description: The documentation offers all you need to start using M60 Keyboard.
 site_author: makerdiary
-site_url: https://wiki.makerdiary.com/python-keyboard
+site_url: https://wiki.makerdiary.com/m60
 
 # Repository
 repo_name: makerdiary/python-keyboard

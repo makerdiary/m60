@@ -6,7 +6,7 @@ you can modify [the `keyboard` library](https://github.com/makerdiary/python-key
 
 
 !!! Note
-    When you modify the `keyboard` library, the keyboard may stop working if there is any syntax error or other error in the code. You will need another keyboard to fix it. If you get a fatal error, you can always do a [factory reset](/factory_reset).
+    When you modify the `keyboard` library, the keyboard may stop working if there is any syntax error or other error in the code. You will need another keyboard to fix it. If you get a fatal error, you can always do a [factory reset](../factory_reset.md).
 
 By default, The CircuitPython firmware of M60 has two frozen modules - [`adafruit_ble`](https://github.com/adafruit/Adafruit_CircuitPython_BLE) and `PYKB`. `PYKB` is a frozen version of the `keyboard` library.
 
@@ -16,4 +16,4 @@ By default, The CircuitPython firmware of M60 has two frozen modules - [`adafrui
 
 
 ## Develop with C/C++, Rust, JerryScript, TinyGo
-The M60 keybaord also supports C/C++, Rust, JerryScript and TinyGo. To create your own firmware, read [the hardware information](hardware) to get started.
+The M60 keybaord also supports C/C++, Rust, JerryScript and TinyGo. To create your own firmware, read [the hardware information](hardware.md) to get started.
