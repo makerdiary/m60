@@ -139,6 +139,9 @@ nav:
   - Backlight: backlight.md
   - Upgrade: upgrade_firmware.md
   - Factory Reset: factory_reset.md
+  - Developer Guide:
+    - Dive Into Keyboard: developer_guide/index.md
+    - Hardware: developer_guide/hardware.md
   - Contributing: CONTRIBUTING.md
   - 中文: https://gitee.com/makerdiary/python-keyboard/wikis/pages
 
